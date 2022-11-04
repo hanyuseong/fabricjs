@@ -1,0 +1,22 @@
+
+
+@font-face {
+    font-family: 'SoDoSans';
+    font-weight: 900;
+    font-display: swap;
+    src: local('SoDoSans-Black'), url('../fonts/woff2/SoDoSans-Black.woff2') format('woff2'), url('../fonts/woff/SoDoSans-Black.woff') format('woff'), url('../fonts/otf/SoDoSans-Black.otf') format('otf'), url('../fonts/ttf/SoDoSans-Black.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'SoDoSans';
+    font-weight: 800;
+    font-display: swap;
+    src: local('SoDoSans-Bold'), url('../fonts/woff2/SoDoSans-Bold.woff2') format('woff2'), url('../fonts/woff/SoDoSans-Bold.woff') format('woff'), url('../fonts/otf/SoDoSans-Bold.otf') format('otf'), url('../fonts/ttf/SoDoSans-Bold.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'SoDoSans';
+    font-weight: 400;
+    font-display: swap;
+    src: local('SoDoSans-Regular'), url('../fonts/woff2/SoDoSans-Regular.woff2') format('woff2'), url('../fonts/woff/SoDoSans-Regular.woff') format('woff'), url('../fonts/otf/SoDoSans-Regular.otf') format('otf'), url('../fonts/ttf/SoDoSans-Regular.ttf') format('ttf');
+}
